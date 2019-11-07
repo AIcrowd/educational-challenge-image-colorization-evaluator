@@ -1,0 +1,14 @@
+{
+  "evaluator_name" : "educational_challenge_image_colorization_evaluator",
+  "evaluator_class" : "EducationalChallengeImageColorizationEvaluator",
+  "challenge_client_name" : "your-challenge-client-name::for-admin-use-only",
+  "challenge_grader_id" : "your-challenge-grader-id::for-admin-use-only",
+  "evaluation_pipeline_version" : "1.0",
+  "authors" : [
+    {
+      "name" : "Cosmin Rusu",
+      "email" : "cr.rusucosmin@gmail.com"
+    }
+  ],
+  "version": "0.1"
+}

@@ -1,0 +1,1 @@
+from .educational_challenge_image_colorization_evaluator import EducationalChallengeImageColorizationEvaluator
